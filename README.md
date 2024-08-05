@@ -1,1 +1,1 @@
-# Link to (Github Pages)[https://aps358.github.io/e-plantShopping/]
+# Link to [Github Pages](https://aps358.github.io/e-plantShopping/)
